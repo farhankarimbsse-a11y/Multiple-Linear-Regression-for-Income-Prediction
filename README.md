@@ -1,0 +1,2 @@
+# Multiple-Linear-Regression-for-Income-Prediction
+Machine learning ke is project mein humne Multiple Linear Regression (MLR) ka istemal karte hue kisi bhi shakhs ki income (aamdani) ko predict karne ka model banaya hai. Linear regression statistical hai jo ek ya ek se zyada independent variables (features) aur ek dependent variable (target) ke darmiyan relationship ko samajhne mein madad deti hai.
