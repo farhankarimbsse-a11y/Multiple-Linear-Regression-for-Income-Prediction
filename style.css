@@ -114,3 +114,9 @@
   html{scroll-behavior:auto}
   *,*::before,*::after{animation-duration:.01ms!important;animation-iteration-count:1!important;transition-duration:.01ms!important}
 }
+
+/* Product photos and catalogue price note */
+.product-image img.product-photo{width:100%;height:100%;object-fit:contain;padding:12px;display:block}
+.mini-product-art img,.cart-row-art img{width:100%;height:100%;object-fit:contain;border-radius:inherit;display:block}
+.price-disclaimer{font-size:10px!important;color:#8a7551!important;background:#fbf7e9;border:1px solid #eee4c8;border-radius:7px;padding:8px 10px;margin:8px 0 0;max-width:620px;line-height:1.5}
+@media(max-width:440px){.product-image img.product-photo{padding:6px}.price-disclaimer{font-size:9px!important;padding:7px 8px}}
